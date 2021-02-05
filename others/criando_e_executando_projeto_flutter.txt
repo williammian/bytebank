@@ -1,0 +1,19 @@
+Criando projeto
+
+flutter create bytebank
+
+flutter emulators --launch id-do-emulador
+
+O id do emulador pode ser encontrado a partir do comando flutter emulators
+
+Pixel_3a_API_30_x86
+
+flutter emulators --launch Pixel_3a_API_30_x86
+
+Aparecendo o emulador, entre no diretório bytebank e execute o comando flutter run
+
+flutter run
+
+flutter run -d Pixel_3a_API_30_x86
+
+flutter run --verbose
