@@ -1,0 +1,5 @@
+https://medium.com/flutter-community/flutter-code-organization-de3a4c219149
+
+models -> colocar código para modelos;
+screens -> Widgets que representam uma tela inteira;
+components -> Widgets que representam componentes menores reutilizáveis.
